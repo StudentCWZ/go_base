@@ -1,2 +1,3 @@
-# go_base
-The foundation of Golang.
+# Go 基础教程
+## 仓库概述
+- Go 基础教程知识点 -- 源自李文周
